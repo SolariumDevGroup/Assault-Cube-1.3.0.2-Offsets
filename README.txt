@@ -8,8 +8,8 @@ FOV                       [ac_client.exe + 0x18A7CC]
 PlayerCount               [ac_client.exe + 0x18AC0C]
 
 Position X                [0x2C]
-Position Y                [0x30]
-Position Z                [0x28]
+Position Y                [0x28]
+Position Z                [0x30]
 
 Head Position X           [0x4]
 Head Position Y           [0xC]
